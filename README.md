@@ -1,0 +1,1 @@
+ModelForge is an interactive machine learning platform to upload datasets, perform EDA, engineer features, train and compare regression and classification models, tune hyperparameters, and track experiments.
