@@ -14,3 +14,5 @@ def test_load_csv(tmp_path):
     assert isinstance(df, pd.DataFrame)
     assert df.shape == (2, 2)
     assert list(df.columns) == ["name", "age"]
+
+
