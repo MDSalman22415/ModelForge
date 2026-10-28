@@ -1,0 +1,15 @@
+
+student_id,name,age,gender,marks,attendance,passed
+101,Salman,20,Male,85,92,True
+102,Aman,21,Male,78,88,True
+103,Priya,19,Female,91,95,True
+104,Neha,,Female,67,80,True
+105,Rahul,22,Male,45,65,False
+105,Rahul,22,Male,45,65,False
+106,Anjali,150,Female,88,90,True
+107,Vikas,20,Male,,75,True
+108,,21,Unknown,72,,True
+109,Simran,19,Female,105,98,True
+110,Arjun,abc,Male,59,60,False
+111,Karan,20,M,70,85,True
+112,Meera,19,Female,82,101,True
