@@ -2,7 +2,7 @@
 import pandas as pd
 import pytest
 
-from src.ml_platform.validation.data_quality import DataQualityService
+from ml_platform.validation.data_quality import DataQualityService
 
 
 @pytest.fixture
